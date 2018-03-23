@@ -3,7 +3,7 @@ layout: post
 title: JudgeFICS
 published: true
 subtitle: Judging App for use by Judges of FICS '18
-date: '2018'
+date: '2018-03-23'
 ---
 # JudgeFICS
 
