@@ -25,7 +25,7 @@ description: A WIP portfolio website for the persona that is xmok.
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - My CV: ""
+    - My CV: "/docs/xmok.pdf"
     #- GitHub Pages: "https://pages.github.com/"
   
 # Image to show in the navigation bar - image must be a square (width = height)
