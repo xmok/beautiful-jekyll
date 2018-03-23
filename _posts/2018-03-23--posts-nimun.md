@@ -1,0 +1,19 @@
+---
+layout: post
+published: true
+title: _posts/NIMUN
+subtitle: Software for NUST International Model United Nations '18
+date: '2018-03-23'
+---
+# NIMUN '18 Custom Software
+
+## About NIMUN
+NUST International Model United Nations is a MUN hosted by NUST annually. 
+[NIMUN](nimun.com.pk)
+
+## About Custom Chairing Sofware
+The software was an improvement on the previous version (which I also developed) and allowed Chairs and their ACDs to computerize the proceedings of a MUN.
+
+## Technical Aspects
+- VB.NET,
+[A Piece](http://www.nimun.com.pk/media/nimunation/pages/T&OD/)
